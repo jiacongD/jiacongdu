@@ -1,0 +1,14 @@
+/* css styles */
+
+.sidebar-class-name {
+    display: none;
+}
+
+
+img {
+    border-radius: 10px; /* Adjust the pixel value to increase or decrease the rounding */
+}
+
+@media(max-width: 2000.98px){
+...
+}

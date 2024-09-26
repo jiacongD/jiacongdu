@@ -1,0 +1,27 @@
+---
+title: "Publications"
+---
+
+You can also find my publications on [Google Scholar](https://scholar.google.com/citations?user=t-neUtUAAAAJ&hl=en).
+
+## Publications
+
+*	**Du, J.**, Yu, Y., Zhang, M., Wu, Z., Ryan, A. M., & Mukherjee, B. (2022). Outcome Adaptive Propensity Score Methods for Handling Censoring and High-Dimensionality: Application to Insurance Claims. arXiv preprint arXiv:2208.00114. Statistical Methods and Medical Research. Accepted.
+
+* Fritsche, L. G., Nam, K., **Du, J.**, Kundu, R., Salvatore, M., Shi, X., ... & Mukherjee, B. (2023). Uncovering associations between pre-existing conditions and COVID-19 Severity: A polygenic risk score approach across three large biobanks. PLoS genetics, 19(12), e1010907.
+
+* **Du, J.**, Zhou, X., Clark‐Boucher, D., Hao, W., Liu, Y., Smith, J. A., & Mukherjee, B. (2023). Methods for large‐scale single mediator hypothesis testing: Possible choices and comparisons. Genetic Epidemiology, 47(2), 167-184.
+
+* Clark-Boucher, D., Zhou, X., **Du, J.**, Liu, Y., Needham, B. L., Smith, J. A., & Mukherjee, B. (2023). Methods for mediation analysis with high-dimensional DNA methylation data: Possible choices and comparisons. PLoS genetics, 19(11), e1011022.
+
+*	**Du, J.**, Boss, J., Han, P., Beesley, L. J., Kleinsasser, M., Goutman, S. A., ... & Mukherjee, B. (2022). Variable selection with multiply-imputed datasets: choosing between stacked and grouped methods. Journal of Computational and Graphical Statistics, 31(4), 1063-1075.
+
+*	Wang, Y. Z., Zhao, W., Ammous, F., Song, Y., **Du, J.**, Shang, L., ... & Smith, J. A. (2022). DNA methylation mediates the association between individual and neighborhood social disadvantage and cardiovascular risk factors. Frontiers in Cardiovascular Medicine, 9, 848768.
+
+*	**Du, J.**, J Beesley, L., Lee, S., Zhou, X., Dempsey, W., & Mukherjee, B. (2022). Optimal diagnostic test allocation strategy during the COVID‐19 pandemic and beyond. Statistics in Medicine, 41(2), 310-327.
+
+*	Ray, D., Salvatore, M., Bhattacharyya, R., Wang, L., **Du, J.**, Mohammed, S., ... & Mukherjee, B. (2020). Predictions, role of interventions and effects of a historic national lockdown in India’s response to the COVID-19 pandemic: data science call to arms. Harvard data science review, 2020(Suppl 1).
+
+## Preprints
+
+*	**Du, J.**, Shi, X., Zeng, D., & Mukherjee, B. (2024). Doubly robust causal inference through penalized bias-reduced estimation: combining non-probability samples with designed surveys. arXiv preprint arXiv:2403.18039. Journal of the Royal Statistical Society, Series B. Under review.

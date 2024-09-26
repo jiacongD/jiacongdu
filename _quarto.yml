@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Jiacong Du"
+  favicon: favicon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - publications.qmd
+      - href: awards.qmd
+        text: Awards
+
+# format:
+#   html:
+#     theme: cosmo
+#     # theme: litera
+#     css: styles.css
+#     # toc: true
+#     # include-in-header: |
+#     #   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+#     #   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.8.6/css/academicons.min.css">
+
+
+format: 
+  html:
+    grid:
+      sidebar-width: 10px
+      body-width: 1400px
+      margin-width: 10px
+      gutter-width: 1rem
+
+editor: visual
+
+execute:
+  freeze: auto
