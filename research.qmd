@@ -6,27 +6,27 @@ listing:
   fields: [image, categories, title, description]
   contents:
     - title: "**Doubly robust causal inference through penalized bias-reduced estimation**"
-      image: "_site/files/research_data_integration.png"
+      image: "docs/_site/files/research_data_integration.png"
       path: https://arxiv.org/abs/2403.18039
       description: ""
       categories: [Paper]
     - title: "**Outcome Adaptive Propensity Score Methods for Handling Censoring and High-Dimensionality**"
-      image: "_site/files/research_OP.png"
+      image: "docs/_site/files/research_OP.png"
       path: https://arxiv.org/abs/2208.00114 
       description: ""
       categories: [Paper]
     - title: "**Methods for large-scale single mediator hypothesis testing**"
-      image: "_site/files/research_mediation.png"
+      image: "docs/_site/files/research_mediation.png"
       path: https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22510
       description: ""
       categories: [Paper, R package]
     - title: "**Variable Selection with Multiply-Imputed Datasets**"
-      image: "_site/files/research_miselect.png"
+      image: "docs/_site/files/research_miselect.png"
       path: https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2035739#abstract
       description: ""
       categories: [Paper, R package]
     - title: "**Optimal diagnostic test allocation strategy during the COVID-19 pandemic and beyond**"
-      image: "_site/files/research_covid.png"
+      image: "docs/_site/files/research_covid.png"
       path: https://pubmed.ncbi.nlm.nih.gov/34697824/
       description: ""
       categories: [Paper, R shinyapp]
