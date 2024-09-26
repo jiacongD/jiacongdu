@@ -1,6 +1,6 @@
 ---
 title: "Jiacong Du"
-image: _site/files/jiacong_photo_withGlasses.jpg
+image: files/jiacong_photo_withGlasses.jpg
 about:
   template: trestles
   image-shape: rectangle
